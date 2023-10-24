@@ -1,0 +1,6 @@
+.env
+node_modules/
+*.zip
+*.txt
+public/thumbnail/*
+!public/thumbnail/.gitkeep
